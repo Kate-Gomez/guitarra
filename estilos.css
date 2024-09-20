@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-image: url(./img-guitarra-20240726T133741Z-001/img-guitarra/header.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-link{
+color: #fff;
+
+}
+.guitarra{
+    background: url(./img-guitarra-20240726T133741Z-001/img-guitarra/header_guitarra.png);
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position-y: 80%; /* para el alto */
+}
+
+.titulo{
+    font-size: 5rem;
+
+}
+
+.precio{
+    font-size: 3rem;
+
+}
+.aprender{
+    background-image: url(./img-guitarra-20240726T133741Z-001/img-guitarra/cursos_bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+}
